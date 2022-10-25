@@ -1,0 +1,38 @@
+body {
+  background-color: #C8DBBE ;
+}
+ hr  {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: #425F57;
+   border-width: 5px;
+   height: 0px;
+   width: 5%;
+}
+img: {
+  height: 400px;
+  width: 400px;
+}
+h1 {
+  color: #425F57;
+  font: italic 3.5em "Fira Sans", serif;
+}
+
+h3 {
+  color: #425F57;
+}
+
+#profilepic {
+  border-radius: 100%;
+}
+
+#profilepic:hover {
+  border-radius: 0%;
+}
+.Stars:hover {
+  color: #FCE700 ;
+}
+
+.linkpage:Hover {
+  background-color: #FCE700 ; 
+}
