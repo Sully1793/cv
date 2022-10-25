@@ -28,11 +28,17 @@ h3 {
 
 #profilepic:hover {
   border-radius: 0%;
+
 }
 .Stars:hover {
   color: #FCE700 ;
 }
 
 .linkpage:Hover {
-  background-color: #FCE700 ; 
+  background-color: #FCE700 ;
+}
+
+#FPSpic:hover {
+  transition: 10s;
+  transform: rotate(3600deg);
 }
